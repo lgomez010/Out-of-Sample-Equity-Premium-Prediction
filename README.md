@@ -12,5 +12,5 @@ The original work demonstrates that simple forecast combinations reliably outper
   - Rolling-window and recursive estimation.
   - Individual predictor OLS forecasts.
   - Combination methods: equal-weight, discount mean squared prediction error (DMSPE), trimmed/median variants.
-  - Out-of-sample metrics: R²_OOS, Clark-West test statistics, certainty equivalent return (CER) gains, Sharpe ratio improvements for mean-variance portfolios.
+  - Out-of-sample metrics: TBD
 - **Extension**: TBD
